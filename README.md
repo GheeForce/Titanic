@@ -13,11 +13,14 @@ Titanic DataSet obtained from Kaggle: https://www.kaggle.com/c/titanic
 Build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 
-#### 1. Titanic_Predictions_LogisticRegression_MRG - first notebook for Titanic performing EDA and prediction with Logistic Regression.
+#### 1. Titanic_Predictions_LogisticRegression_MRG - first predictions for Titanic performing EDA and prediction with Logistic Regression.
 Accuracy ~= 75%
 
-#### 2. Titanic_Predictions_RandomForests_MRG - second notebook for Titanic with prediction using Random Forests model
+#### 2. Titanic_Predictions_RandomForests_MRG - second predictions for Titanic with prediction using Random Forests model
 Accuracy ~= 70%
 
-#### 3. Titanic_Predictions_SVM_MRG - third notebook for Titanic with additional feature engineering and prediction using an SVM model and gridsearch
+#### 3. Titanic_Predictions_SVM_MRG - third preictions for Titanic with additional feature engineering and prediction using an SVM model and gridsearch
 Accuracy ~= 79% (Top 20%)
+
+#### 4. Titanic_Predictions_SVM_MRG - fourth preictions for Titanic with  prediction using an basic TensorFlow Neural Network.
+Accuracy ~= 78%
