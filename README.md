@@ -14,13 +14,13 @@ Build a predictive model that answers the question: “what sorts of people were
 
 
 #### 1. Titanic_Predictions_LogisticRegression_MRG - first predictions for Titanic performing EDA and prediction with Logistic Regression.
-Accuracy ~= 75%
+ * Accuracy ~= 75%
 
 #### 2. Titanic_Predictions_RandomForests_MRG - second predictions for Titanic with additional feature engineering and prediction using an Random Forests model and gridsearch
-Accuracy ~= 77%
+ * Accuracy ~= 77%
 
 #### 3. Titanic_Predictions_SVM_MRG - third preictions for Titanic with additional feature engineering and prediction using an SVM model and gridsearch
-Accuracy ~= 79% (Top 20%)
+ * Accuracy ~= 79% (Top 20%)
 
 #### 4. Titanic_Predictions_SVM_MRG - fourth preictions for Titanic with  prediction using an basic TensorFlow Neural Network.
-Accuracy ~= 78%
+ * Accuracy ~= 78%
